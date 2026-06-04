@@ -49,31 +49,27 @@ Prep Time offers an optional paid subscription, **Prep Time Pro**, with the foll
 
 **Refunds.** Refund requests are handled by the store you purchased through (Google Play or Apple App Store) under their respective refund policies. We do not process refunds directly.
 
-## 6. AI-generated explanations
-
-Prep Time uses Google's Gemini AI model to generate explanations for quiz questions. AI output may occasionally be inaccurate, incomplete, or out of date. Always cross-check important answers with your textbook or teacher. We are not liable for academic outcomes based solely on AI-generated content.
-
-## 7. Disclaimer of warranties
+## 6. Disclaimer of warranties
 
 The app is provided **"as is"** without warranties of any kind, express or implied. We do not guarantee that the app will be uninterrupted, error-free, or that any specific exam result will follow from using it.
 
-## 8. Limitation of liability
+## 7. Limitation of liability
 
 To the maximum extent permitted by law, we are not liable for any indirect, incidental, or consequential damages arising from your use of the app. Our total liability for any claim is limited to the amount you paid us for the app in the 12 months preceding the claim.
 
-## 9. Termination
+## 8. Termination
 
 You can stop using the app at any time and delete your account from **Settings → Account → Delete Account**. We may suspend or terminate your access if you violate these Terms or use the app in a way that risks harm to other users or to the service.
 
-## 10. Changes to these Terms
+## 9. Changes to these Terms
 
 We may update these Terms from time to time. Material changes will be highlighted in-app. Continued use after a change means you accept the updated Terms.
 
-## 11. Governing law
+## 10. Governing law
 
 These Terms are governed by the laws of the **Republic of Zambia**. Any disputes will be resolved in the courts of Zambia.
 
-## 12. Contact
+## 11. Contact
 
 **Zed Indie Hacker**
 Email: zedindiehacker@gmail.com

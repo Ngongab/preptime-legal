@@ -39,40 +39,35 @@ We use your information to:
 
 - Provide and personalise the app (show the right past papers and subjects).
 - Save your study progress and let you continue where you left off across devices.
-- Generate AI-powered explanations for quiz questions you ask about.
 - Send study reminders and important account notifications.
 - Process and verify subscription purchases.
 - Diagnose crashes and improve the app.
 
 We do not sell your personal data. We do not show third-party ads.
 
-## 4. AI explanations
-
-When you tap "Explain" on a quiz question, the question text and answer choices are sent to **Google's Gemini model via Firebase AI** to generate an explanation. We do not send your name, email, or any other personal identifier with the request. Generated explanations may be cached so they load instantly next time.
-
-## 5. Service providers
+## 4. Service providers
 
 We use the following providers to run Prep Time. Each handles data under their own privacy terms:
 
 | Provider | Purpose |
 |---|---|
 | Supabase | Account database and authentication |
-| Google Firebase | Analytics, crash reporting, push notifications, AI |
+| Google Firebase | Analytics, crash reporting, push notifications |
 | Google Sign-In | Optional sign-in method |
 | RevenueCat | Subscription management |
 | Google Play / Apple App Store | Payment processing for Prep Time Pro |
 
-## 6. Children's privacy
+## 5. Children's privacy
 
 Prep Time is intended for secondary school students aged **13 and older**. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us information, please email us and we will delete it.
 
-## 7. Data retention
+## 6. Data retention
 
 We keep your account data for as long as your account is active. You can delete your account at any time from **Settings → Account → Delete Account**, which permanently removes your profile and study history within 30 days.
 
 Anonymised analytics and crash data may be retained longer for product improvement.
 
-## 8. Your rights
+## 7. Your rights
 
 You can:
 
@@ -81,19 +76,19 @@ You can:
 - Opt out of push notifications in your device settings.
 - Revoke Google Sign-In access from your Google account dashboard.
 
-## 9. Security
+## 8. Security
 
 We use HTTPS for all network requests, store secrets server-side, and rely on Supabase and Firebase for production-grade infrastructure. No system is 100% secure — please use a strong password and keep your device updated.
 
-## 10. International transfers
+## 9. International transfers
 
 Your data may be processed on servers outside Zambia (typically the European Union or United States) by our service providers. They are bound by their own data-protection commitments.
 
-## 11. Changes to this policy
+## 10. Changes to this policy
 
 We may update this policy from time to time. The "Last updated" date at the top reflects the most recent change. Continued use of the app after a change means you accept the updated policy.
 
-## 12. Contact
+## 11. Contact
 
 Questions, concerns, or requests:
 
