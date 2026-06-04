@@ -16,7 +16,7 @@ You must be at least 13 years old to use Prep Time. If you are under 18, you con
 
 ## 2. Your account
 
-You are responsible for keeping your sign-in details secure and for activity that happens under your account. Notify us promptly at **bwalyangonga@gmail.com** if you suspect unauthorised access.
+You are responsible for keeping your sign-in details secure and for activity that happens under your account. Notify us promptly at **zedindiehacker@gmail.com** if you suspect unauthorised access.
 
 ## 3. Acceptable use
 
@@ -75,5 +75,5 @@ These Terms are governed by the laws of the **Republic of Zambia**. Any disputes
 
 ## 12. Contact
 
-**Bwalya Ngonga**
-Email: bwalyangonga@gmail.com
+**Zed Indie Hacker**
+Email: zedindiehacker@gmail.com

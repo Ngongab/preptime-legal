@@ -14,7 +14,7 @@ By using Prep Time you agree to this Policy. If you do not agree, please do not 
 
 ## 1. Who we are
 
-Prep Time is operated by Bwalya Ngonga ("the developer"), based in Zambia. You can contact us at **bwalyangonga@gmail.com**.
+Prep Time is operated by Zed Indie Hacker ("the developer"), based in Zambia. You can contact us at **zedindiehacker@gmail.com**.
 
 ## 2. Information we collect
 
@@ -97,5 +97,5 @@ We may update this policy from time to time. The "Last updated" date at the top 
 
 Questions, concerns, or requests:
 
-**Bwalya Ngonga**
-Email: bwalyangonga@gmail.com
+**Zed Indie Hacker**
+Email: zedindiehacker@gmail.com
