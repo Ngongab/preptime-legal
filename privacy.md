@@ -70,7 +70,6 @@ We use the following providers to run Prep Time. Each handles data under their o
 | Google Firebase | Crash reporting, push notifications, app integrity, AI features |
 | Google Gemini (via Firebase AI Logic) | AI tutor, hints, and marking of typed answers |
 | Google Sign-In | Optional sign-in method |
-| Meta (Facebook Login) | Optional sign-in method |
 | RevenueCat | Subscription management |
 | Google Play / Apple App Store | Payment processing for Prep Time Pro |
 
